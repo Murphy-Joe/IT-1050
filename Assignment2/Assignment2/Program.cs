@@ -19,7 +19,7 @@ namespace Assignment2
             P1.Spouse.PrintNameAndAge();
             P2.Spouse.PrintNameAndAge();
             Console.WriteLine();
-            Console.WriteLine("Average Age of All 4 People: " + Person.AvgAge());
+            Console.WriteLine("Average Age of All " + Person.Count +" People: " + Person.AvgAge());
 
         }
     }

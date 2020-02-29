@@ -54,7 +54,7 @@ namespace Assignment2
             this.Spouse = new Person();
             this.Spouse.FirstName = Console.ReadLine();
             this.Spouse.LastName = this.LastName;
-            this.Spouse.Spouse = this;
+            this.Spouse.Spouse = this; // I wonder if this causes 'memory leak'
 
             Console.Write("Your Spouse' age:        ");
             this.Spouse.Age = int.Parse(Console.ReadLine());
