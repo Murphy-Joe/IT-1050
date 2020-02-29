@@ -16,17 +16,16 @@ namespace Assignment2
         {
 
         }
-        public Person(int theirAge, string theirFirstName, string theirLastName, Person theirSpouse)
+        public Person(int theirAge, string theirFirstName, 
+            string theirLastName, Person theirSpouse)
+            
         {
             Age = theirAge;
             FirstName = theirFirstName;
             LastName = theirLastName;
             Spouse = theirSpouse;
-        }
+        } // unneeded constructor and possibly incorrect
 
-        public static int Count;
-        public static double SumOfAllAges;
-        
         public string GetFullName()
         {
             return this.FirstName + " " + this.LastName;
@@ -34,7 +33,8 @@ namespace Assignment2
 
         public void PrintNameAndAge()
         {
-            Console.WriteLine(this.GetFullName() + " is " + Age + " years old.");
+            Console.WriteLine(this.GetFullName() + " is " 
+                + Age + " years old.");
         }
 
         public void GetAnswers()
@@ -49,6 +49,8 @@ namespace Assignment2
             this.Age = int.Parse(Console.ReadLine());
 
             Console.Write("Your Spouse' First Name: ");
+            // I did not ask if they're married.
+            // Seemed unnecessary for this assignment.
             this.Spouse = new Person();
             this.Spouse.FirstName = Console.ReadLine();
             this.Spouse.LastName = this.LastName;
@@ -61,6 +63,8 @@ namespace Assignment2
             Person.SumOfAllAges += this.Age + this.Spouse.Age;
 
         }
+        public static int Count;
+        public static double SumOfAllAges;
         public static double AvgAge()
         {
             return Person.SumOfAllAges / Person.Count;
