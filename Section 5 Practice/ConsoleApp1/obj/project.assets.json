@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Section 5 Practice\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Section 5 Practice\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Section 5 Practice\\ConsoleApp1\\Section 5 Practice.csproj",
+      "projectName": "Section 5 Practice",
+      "projectPath": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Section 5 Practice\\ConsoleApp1\\Section 5 Practice.csproj",
       "packagesPath": "C:\\Users\\ibidn\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Section 5 Practice\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
