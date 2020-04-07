@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Assignment2\\Assignment2\\Assignment2.csproj",
-      "projectName": "Assignment2",
-      "projectPath": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Assignment2\\Assignment2\\Assignment2.csproj",
+      "projectUniqueName": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Assignment 2\\Assignment 2\\Assignment 2.csproj",
+      "projectName": "Assignment 2",
+      "projectPath": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Assignment 2\\Assignment 2\\Assignment 2.csproj",
       "packagesPath": "C:\\Users\\ibidn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Assignment2\\Assignment2\\obj\\",
+      "outputPath": "C:\\Users\\ibidn\\OneDrive\\Desktop\\IT1050\\Assignment 2\\Assignment 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ibidn\\AppData\\Roaming\\NuGet\\NuGet.Config",
