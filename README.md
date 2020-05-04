@@ -1,2 +1,2 @@
 # IT-1050
- * I'm waiting for Microsoft to make it easier to delete a folder, or for my git / directory skills to improve. 
+ * Learning, forgetting, and re-learning C# on a bi-monthly basis 
