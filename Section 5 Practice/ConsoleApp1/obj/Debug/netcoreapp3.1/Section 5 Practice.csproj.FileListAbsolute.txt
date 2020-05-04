@@ -1,0 +1,13 @@
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\bin\Debug\netcoreapp3.1\Section 5 Practice.exe
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\bin\Debug\netcoreapp3.1\Section 5 Practice.deps.json
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\bin\Debug\netcoreapp3.1\Section 5 Practice.runtimeconfig.json
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\bin\Debug\netcoreapp3.1\Section 5 Practice.runtimeconfig.dev.json
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\bin\Debug\netcoreapp3.1\Section 5 Practice.dll
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\bin\Debug\netcoreapp3.1\Section 5 Practice.pdb
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\obj\Debug\netcoreapp3.1\Section 5 Practice.csprojAssemblyReference.cache
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\obj\Debug\netcoreapp3.1\Section 5 Practice.csproj.CoreCompileInputs.cache
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\obj\Debug\netcoreapp3.1\Section 5 Practice.AssemblyInfoInputs.cache
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\obj\Debug\netcoreapp3.1\Section 5 Practice.AssemblyInfo.cs
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\obj\Debug\netcoreapp3.1\Section 5 Practice.dll
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\obj\Debug\netcoreapp3.1\Section 5 Practice.pdb
+C:\Users\ibidn\OneDrive\Desktop\IT1050\Section 5 Practice\ConsoleApp1\obj\Debug\netcoreapp3.1\Section 5 Practice.genruntimeconfig.cache
